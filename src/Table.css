@@ -3,6 +3,7 @@
     overflow: scroll;
     height: 400px;
     color: #6a5d5d;
+    background-color: white;
 }
 
 .table tr {
@@ -10,7 +11,8 @@
     justify-content: space-between;
 }
 .table td {
-    padding: o.5rem;
+    padding: 0.5rem;
+    border: none;
     
 }
 
